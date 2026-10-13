@@ -1,0 +1,7 @@
+# Archivos generados y configuración local.
+**/target/
+.idea/
+*.iml
+**/adminces.properties
+**/.env
+**/evidencias/

@@ -1,0 +1,14 @@
+url=http://cestore.ces.com.uy/adminces/
+# Contraseña de la primera pantalla del taller.
+claveTaller=COMPLETAR
+
+# Cuenta Administrador existente, utilizada por GP-03 y GP-04.
+admin.email=COMPLETAR
+admin.clave=COMPLETAR
+
+# Contraseñas válidas para las cuentas nuevas.
+prueba.clave=COMPLETAR
+prueba.nuevaClave=COMPLETAR
+
+# GP-02: selector CSS del mensaje real de contraseña incorrecta.
+login.error.css=COMPLETAR
