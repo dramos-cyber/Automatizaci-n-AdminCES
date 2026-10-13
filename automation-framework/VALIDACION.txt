@@ -1,5 +1,0 @@
-Compilación de 23 archivos Java (framework, ejemplos y scripts AdminCES): correcta con Java 17 y las dependencias declaradas en el POM.
-Método: compilador de Java, sin ejecutar clases de prueba ni abrir el navegador.
-Pruebas funcionales de esta implementación: no ejecutadas.
-Maven test-compile no pudo descargar dependencias por un fallo de resolución DNS en el entorno; la compilación se comprobó directamente con el compilador Java y los JAR obtenidos de Maven Central.
-Antes de ejecutar GP-02 se debe completar login.error.css con el selector real del mensaje de rechazo.
